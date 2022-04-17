@@ -1,7 +1,9 @@
 ### Hi there, I'm Asef Mirzaei | آصف میرزایی 👋
 
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asefmirzaei&theme=vue)
+
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/asefmirzaei/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/asefmirzaei"><img align="left" src="./linkedin" alt="https://www.linkedin.com/in/asefmirzaei" width="96px" height="96px"/></a>
 <a href="https://instagram.com/asefmirzaei"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 </br>
@@ -12,7 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asefmirzaei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asefmirzaei&theme=vue)
 <!--
 **asefmirzaei/asefmirzaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
