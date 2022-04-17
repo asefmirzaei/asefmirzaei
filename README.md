@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?asefmirzaei=jwenjian.visitor-badge)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?asefmirzaei=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **asefmirzaei/asefmirzaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
