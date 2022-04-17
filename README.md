@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=asefmirzaei)
+Glad to see you hehe ![visitors](https://visitor-badge.glitch.me/badge?page_id=asefmirzaei)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asefmirzaei&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
